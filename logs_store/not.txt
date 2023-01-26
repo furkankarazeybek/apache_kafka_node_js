@@ -1,0 +1,2 @@
+system: partition 0
+application: partition 1
